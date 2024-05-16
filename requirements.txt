@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+streamlit
+scikit-learn
+tensorflow-cpu
+keras
+protobuf
+altair
